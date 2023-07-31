@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "오메가 전적 기록실",
+    "version": "1.0",
+    "description": "오메가 전적 기록실",
+    "browser_action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  

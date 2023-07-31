@@ -1,5 +1,7 @@
 /* 위에서 Figma에서 생성한 CSS 코드를 여기에 붙여넣으세요. */
 
+
+
 /* 추가적인 스타일을 작성할 수 있습니다. */
 .popup-container {
     width: 252px;
@@ -21,7 +23,7 @@
   }
   
   .deck-name {
-    font-size: 18px;
+    font-size: 12px;
   }
   
   .popup-content {
